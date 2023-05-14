@@ -1,0 +1,1046 @@
+The constructed graph
+
+ The  index node0
+Edges
+edge from   0  To  1  With Weights  1E+16
+edge from   0  To  11  With Weights  1E+16
+
+
+
+ The  index node1
+Edges
+edge from   1  To  2  With Weights  1E+16
+edge from   1  To  12  With Weights  1E+16
+edge from   1  To  0  With Weights  1E+16
+
+
+
+ The  index node2
+Edges
+edge from   2  To  3  With Weights  1E+16
+edge from   2  To  13  With Weights  1E+16
+edge from   2  To  1  With Weights  1E+16
+
+
+
+ The  index node3
+Edges
+edge from   3  To  4  With Weights  1E+16
+edge from   3  To  14  With Weights  1E+16
+edge from   3  To  2  With Weights  1E+16
+
+
+
+ The  index node4
+Edges
+edge from   4  To  5  With Weights  1E+16
+edge from   4  To  15  With Weights  1E+16
+edge from   4  To  3  With Weights  1E+16
+
+
+
+ The  index node5
+Edges
+edge from   5  To  6  With Weights  1E+16
+edge from   5  To  16  With Weights  1E+16
+edge from   5  To  4  With Weights  1E+16
+
+
+
+ The  index node6
+Edges
+edge from   6  To  7  With Weights  1E+16
+edge from   6  To  17  With Weights  1E+16
+edge from   6  To  5  With Weights  1E+16
+
+
+
+ The  index node7
+Edges
+edge from   7  To  8  With Weights  1E+16
+edge from   7  To  18  With Weights  1E+16
+edge from   7  To  6  With Weights  1E+16
+
+
+
+ The  index node8
+Edges
+edge from   8  To  9  With Weights  1E+16
+edge from   8  To  19  With Weights  1E+16
+edge from   8  To  7  With Weights  1E+16
+
+
+
+ The  index node9
+Edges
+edge from   9  To  10  With Weights  1E+16
+edge from   9  To  20  With Weights  1E+16
+edge from   9  To  8  With Weights  1E+16
+
+
+
+ The  index node10
+Edges
+edge from   10  To  21  With Weights  1E+16
+edge from   10  To  9  With Weights  1E+16
+
+
+
+ The  index node11
+Edges
+edge from   11  To  12  With Weights  1E+16
+edge from   11  To  22  With Weights  1E+16
+edge from   11  To  0  With Weights  1E+16
+
+
+
+ The  index node12
+Edges
+edge from   12  To  13  With Weights  1E+16
+edge from   12  To  23  With Weights  1E+16
+edge from   12  To  1  With Weights  1E+16
+edge from   12  To  11  With Weights  1E+16
+
+
+
+ The  index node13
+Edges
+edge from   13  To  14  With Weights  1E+16
+edge from   13  To  24  With Weights  1E+16
+edge from   13  To  2  With Weights  1E+16
+edge from   13  To  12  With Weights  1E+16
+
+
+
+ The  index node14
+Edges
+edge from   14  To  15  With Weights  1E+16
+edge from   14  To  25  With Weights  1E+16
+edge from   14  To  3  With Weights  1E+16
+edge from   14  To  13  With Weights  1E+16
+
+
+
+ The  index node15
+Edges
+edge from   15  To  16  With Weights  1E+16
+edge from   15  To  26  With Weights  1E+16
+edge from   15  To  4  With Weights  1E+16
+edge from   15  To  14  With Weights  1E+16
+
+
+
+ The  index node16
+Edges
+edge from   16  To  17  With Weights  1E+16
+edge from   16  To  27  With Weights  1E+16
+edge from   16  To  5  With Weights  1E+16
+edge from   16  To  15  With Weights  1E+16
+
+
+
+ The  index node17
+Edges
+edge from   17  To  18  With Weights  1E+16
+edge from   17  To  28  With Weights  1E+16
+edge from   17  To  6  With Weights  1E+16
+edge from   17  To  16  With Weights  1E+16
+
+
+
+ The  index node18
+Edges
+edge from   18  To  19  With Weights  1E+16
+edge from   18  To  29  With Weights  1E+16
+edge from   18  To  7  With Weights  1E+16
+edge from   18  To  17  With Weights  1E+16
+
+
+
+ The  index node19
+Edges
+edge from   19  To  20  With Weights  1E+16
+edge from   19  To  30  With Weights  1E+16
+edge from   19  To  8  With Weights  1E+16
+edge from   19  To  18  With Weights  1E+16
+
+
+
+ The  index node20
+Edges
+edge from   20  To  21  With Weights  1E+16
+edge from   20  To  31  With Weights  1E+16
+edge from   20  To  9  With Weights  1E+16
+edge from   20  To  19  With Weights  1E+16
+
+
+
+ The  index node21
+Edges
+edge from   21  To  32  With Weights  1E+16
+edge from   21  To  10  With Weights  1E+16
+edge from   21  To  20  With Weights  1E+16
+
+
+
+ The  index node22
+Edges
+edge from   22  To  23  With Weights  1E+16
+edge from   22  To  33  With Weights  1E+16
+edge from   22  To  11  With Weights  1E+16
+
+
+
+ The  index node23
+Edges
+edge from   23  To  24  With Weights  1E+16
+edge from   23  To  34  With Weights  1E+16
+edge from   23  To  12  With Weights  1E+16
+edge from   23  To  22  With Weights  1E+16
+
+
+
+ The  index node24
+Edges
+edge from   24  To  25  With Weights  1E+16
+edge from   24  To  35  With Weights  1E+16
+edge from   24  To  13  With Weights  1E+16
+edge from   24  To  23  With Weights  1E+16
+
+
+
+ The  index node25
+Edges
+edge from   25  To  26  With Weights  0.00392156862745098
+edge from   25  To  36  With Weights  32023095545850.7
+edge from   25  To  14  With Weights  1E+16
+edge from   25  To  24  With Weights  1E+16
+
+
+
+ The  index node26
+Edges
+edge from   26  To  27  With Weights  0.00392156862745098
+edge from   26  To  37  With Weights  32023095545850.7
+edge from   26  To  15  With Weights  1E+16
+edge from   26  To  25  With Weights  0.00392156862745098
+
+
+
+ The  index node27
+Edges
+edge from   27  To  28  With Weights  0.00392156862745098
+edge from   27  To  38  With Weights  32023095545850.7
+edge from   27  To  16  With Weights  1E+16
+edge from   27  To  26  With Weights  0.00392156862745098
+
+
+
+ The  index node28
+Edges
+edge from   28  To  29  With Weights  0.00392156862745098
+edge from   28  To  39  With Weights  32023095545850.7
+edge from   28  To  17  With Weights  1E+16
+edge from   28  To  27  With Weights  0.00392156862745098
+
+
+
+ The  index node29
+Edges
+edge from   29  To  30  With Weights  0.00392156862745098
+edge from   29  To  40  With Weights  32023095545850.7
+edge from   29  To  18  With Weights  1E+16
+edge from   29  To  28  With Weights  0.00392156862745098
+
+
+
+ The  index node30
+Edges
+edge from   30  To  31  With Weights  1E+16
+edge from   30  To  41  With Weights  1E+16
+edge from   30  To  19  With Weights  1E+16
+edge from   30  To  29  With Weights  0.00392156862745098
+
+
+
+ The  index node31
+Edges
+edge from   31  To  32  With Weights  1E+16
+edge from   31  To  42  With Weights  1E+16
+edge from   31  To  20  With Weights  1E+16
+edge from   31  To  30  With Weights  1E+16
+
+
+
+ The  index node32
+Edges
+edge from   32  To  43  With Weights  1E+16
+edge from   32  To  21  With Weights  1E+16
+edge from   32  To  31  With Weights  1E+16
+
+
+
+ The  index node33
+Edges
+edge from   33  To  34  With Weights  1E+16
+edge from   33  To  44  With Weights  1E+16
+edge from   33  To  22  With Weights  1E+16
+
+
+
+ The  index node34
+Edges
+edge from   34  To  35  With Weights  1E+16
+edge from   34  To  45  With Weights  1E+16
+edge from   34  To  23  With Weights  1E+16
+edge from   34  To  33  With Weights  1E+16
+
+
+
+ The  index node35
+Edges
+edge from   35  To  36  With Weights  64046191091701.4
+edge from   35  To  46  With Weights  0.00392156862745098
+edge from   35  To  24  With Weights  1E+16
+edge from   35  To  34  With Weights  1E+16
+
+
+
+ The  index node36
+Edges
+edge from   36  To  37  With Weights  1E+16
+edge from   36  To  47  With Weights  1E+16
+edge from   36  To  25  With Weights  32023095545850.7
+edge from   36  To  35  With Weights  64046191091701.4
+
+
+
+ The  index node37
+Edges
+edge from   37  To  38  With Weights  1E+16
+edge from   37  To  48  With Weights  1E+16
+edge from   37  To  26  With Weights  32023095545850.7
+edge from   37  To  36  With Weights  1E+16
+
+
+
+ The  index node38
+Edges
+edge from   38  To  39  With Weights  1E+16
+edge from   38  To  49  With Weights  1E+16
+edge from   38  To  27  With Weights  32023095545850.7
+edge from   38  To  37  With Weights  1E+16
+
+
+
+ The  index node39
+Edges
+edge from   39  To  40  With Weights  1E+16
+edge from   39  To  50  With Weights  1E+16
+edge from   39  To  28  With Weights  32023095545850.7
+edge from   39  To  38  With Weights  1E+16
+
+
+
+ The  index node40
+Edges
+edge from   40  To  41  With Weights  21348730363900.5
+edge from   40  To  51  With Weights  0.00392156862745098
+edge from   40  To  29  With Weights  32023095545850.7
+edge from   40  To  39  With Weights  1E+16
+
+
+
+ The  index node41
+Edges
+edge from   41  To  42  With Weights  1E+16
+edge from   41  To  52  With Weights  1E+16
+edge from   41  To  30  With Weights  1E+16
+edge from   41  To  40  With Weights  21348730363900.5
+
+
+
+ The  index node42
+Edges
+edge from   42  To  43  With Weights  1E+16
+edge from   42  To  53  With Weights  1E+16
+edge from   42  To  31  With Weights  1E+16
+edge from   42  To  41  With Weights  1E+16
+
+
+
+ The  index node43
+Edges
+edge from   43  To  54  With Weights  1E+16
+edge from   43  To  32  With Weights  1E+16
+edge from   43  To  42  With Weights  1E+16
+
+
+
+ The  index node44
+Edges
+edge from   44  To  45  With Weights  1E+16
+edge from   44  To  55  With Weights  1E+16
+edge from   44  To  33  With Weights  1E+16
+
+
+
+ The  index node45
+Edges
+edge from   45  To  46  With Weights  1E+16
+edge from   45  To  56  With Weights  1E+16
+edge from   45  To  34  With Weights  1E+16
+edge from   45  To  44  With Weights  1E+16
+
+
+
+ The  index node46
+Edges
+edge from   46  To  47  With Weights  64046191091701.4
+edge from   46  To  57  With Weights  0.00392156862745098
+edge from   46  To  35  With Weights  0.00392156862745098
+edge from   46  To  45  With Weights  1E+16
+
+
+
+ The  index node47
+Edges
+edge from   47  To  48  With Weights  1E+16
+edge from   47  To  58  With Weights  1E+16
+edge from   47  To  36  With Weights  1E+16
+edge from   47  To  46  With Weights  64046191091701.4
+
+
+
+ The  index node48
+Edges
+edge from   48  To  49  With Weights  1E+16
+edge from   48  To  59  With Weights  1E+16
+edge from   48  To  37  With Weights  1E+16
+edge from   48  To  47  With Weights  1E+16
+
+
+
+ The  index node49
+Edges
+edge from   49  To  50  With Weights  1E+16
+edge from   49  To  60  With Weights  1E+16
+edge from   49  To  38  With Weights  1E+16
+edge from   49  To  48  With Weights  1E+16
+
+
+
+ The  index node50
+Edges
+edge from   50  To  51  With Weights  1E+16
+edge from   50  To  61  With Weights  1E+16
+edge from   50  To  39  With Weights  1E+16
+edge from   50  To  49  With Weights  1E+16
+
+
+
+ The  index node51
+Edges
+edge from   51  To  52  With Weights  21348730363900.5
+edge from   51  To  62  With Weights  0.00392156862745098
+edge from   51  To  40  With Weights  0.00392156862745098
+edge from   51  To  50  With Weights  1E+16
+
+
+
+ The  index node52
+Edges
+edge from   52  To  53  With Weights  1E+16
+edge from   52  To  63  With Weights  1E+16
+edge from   52  To  41  With Weights  1E+16
+edge from   52  To  51  With Weights  21348730363900.5
+
+
+
+ The  index node53
+Edges
+edge from   53  To  54  With Weights  1E+16
+edge from   53  To  64  With Weights  1E+16
+edge from   53  To  42  With Weights  1E+16
+edge from   53  To  52  With Weights  1E+16
+
+
+
+ The  index node54
+Edges
+edge from   54  To  65  With Weights  1E+16
+edge from   54  To  43  With Weights  1E+16
+edge from   54  To  53  With Weights  1E+16
+
+
+
+ The  index node55
+Edges
+edge from   55  To  56  With Weights  1E+16
+edge from   55  To  66  With Weights  1E+16
+edge from   55  To  44  With Weights  1E+16
+
+
+
+ The  index node56
+Edges
+edge from   56  To  57  With Weights  1E+16
+edge from   56  To  67  With Weights  1E+16
+edge from   56  To  45  With Weights  1E+16
+edge from   56  To  55  With Weights  1E+16
+
+
+
+ The  index node57
+Edges
+edge from   57  To  58  With Weights  64046191091701.4
+edge from   57  To  68  With Weights  0.00392156862745098
+edge from   57  To  46  With Weights  0.00392156862745098
+edge from   57  To  56  With Weights  1E+16
+
+
+
+ The  index node58
+Edges
+edge from   58  To  59  With Weights  1E+16
+edge from   58  To  69  With Weights  1E+16
+edge from   58  To  47  With Weights  1E+16
+edge from   58  To  57  With Weights  64046191091701.4
+
+
+
+ The  index node59
+Edges
+edge from   59  To  60  With Weights  1E+16
+edge from   59  To  70  With Weights  1E+16
+edge from   59  To  48  With Weights  1E+16
+edge from   59  To  58  With Weights  1E+16
+
+
+
+ The  index node60
+Edges
+edge from   60  To  61  With Weights  1E+16
+edge from   60  To  71  With Weights  1E+16
+edge from   60  To  49  With Weights  1E+16
+edge from   60  To  59  With Weights  1E+16
+
+
+
+ The  index node61
+Edges
+edge from   61  To  62  With Weights  1E+16
+edge from   61  To  72  With Weights  1E+16
+edge from   61  To  50  With Weights  1E+16
+edge from   61  To  60  With Weights  1E+16
+
+
+
+ The  index node62
+Edges
+edge from   62  To  63  With Weights  21348730363900.5
+edge from   62  To  73  With Weights  0.00392156862745098
+edge from   62  To  51  With Weights  0.00392156862745098
+edge from   62  To  61  With Weights  1E+16
+
+
+
+ The  index node63
+Edges
+edge from   63  To  64  With Weights  1E+16
+edge from   63  To  74  With Weights  1E+16
+edge from   63  To  52  With Weights  1E+16
+edge from   63  To  62  With Weights  21348730363900.5
+
+
+
+ The  index node64
+Edges
+edge from   64  To  65  With Weights  1E+16
+edge from   64  To  75  With Weights  1E+16
+edge from   64  To  53  With Weights  1E+16
+edge from   64  To  63  With Weights  1E+16
+
+
+
+ The  index node65
+Edges
+edge from   65  To  76  With Weights  1E+16
+edge from   65  To  54  With Weights  1E+16
+edge from   65  To  64  With Weights  1E+16
+
+
+
+ The  index node66
+Edges
+edge from   66  To  67  With Weights  1E+16
+edge from   66  To  77  With Weights  1E+16
+edge from   66  To  55  With Weights  1E+16
+
+
+
+ The  index node67
+Edges
+edge from   67  To  68  With Weights  1E+16
+edge from   67  To  78  With Weights  1E+16
+edge from   67  To  56  With Weights  1E+16
+edge from   67  To  66  With Weights  1E+16
+
+
+
+ The  index node68
+Edges
+edge from   68  To  69  With Weights  64046191091701.4
+edge from   68  To  79  With Weights  0.00392156862745098
+edge from   68  To  57  With Weights  0.00392156862745098
+edge from   68  To  67  With Weights  1E+16
+
+
+
+ The  index node69
+Edges
+edge from   69  To  70  With Weights  1E+16
+edge from   69  To  80  With Weights  1E+16
+edge from   69  To  58  With Weights  1E+16
+edge from   69  To  68  With Weights  64046191091701.4
+
+
+
+ The  index node70
+Edges
+edge from   70  To  71  With Weights  1E+16
+edge from   70  To  81  With Weights  1E+16
+edge from   70  To  59  With Weights  1E+16
+edge from   70  To  69  With Weights  1E+16
+
+
+
+ The  index node71
+Edges
+edge from   71  To  72  With Weights  1E+16
+edge from   71  To  82  With Weights  1E+16
+edge from   71  To  60  With Weights  1E+16
+edge from   71  To  70  With Weights  1E+16
+
+
+
+ The  index node72
+Edges
+edge from   72  To  73  With Weights  1E+16
+edge from   72  To  83  With Weights  1E+16
+edge from   72  To  61  With Weights  1E+16
+edge from   72  To  71  With Weights  1E+16
+
+
+
+ The  index node73
+Edges
+edge from   73  To  74  With Weights  21348730363900.5
+edge from   73  To  84  With Weights  0.00392156862745098
+edge from   73  To  62  With Weights  0.00392156862745098
+edge from   73  To  72  With Weights  1E+16
+
+
+
+ The  index node74
+Edges
+edge from   74  To  75  With Weights  1E+16
+edge from   74  To  85  With Weights  1E+16
+edge from   74  To  63  With Weights  1E+16
+edge from   74  To  73  With Weights  21348730363900.5
+
+
+
+ The  index node75
+Edges
+edge from   75  To  76  With Weights  1E+16
+edge from   75  To  86  With Weights  1E+16
+edge from   75  To  64  With Weights  1E+16
+edge from   75  To  74  With Weights  1E+16
+
+
+
+ The  index node76
+Edges
+edge from   76  To  87  With Weights  1E+16
+edge from   76  To  65  With Weights  1E+16
+edge from   76  To  75  With Weights  1E+16
+
+
+
+ The  index node77
+Edges
+edge from   77  To  78  With Weights  1E+16
+edge from   77  To  88  With Weights  1E+16
+edge from   77  To  66  With Weights  1E+16
+
+
+
+ The  index node78
+Edges
+edge from   78  To  79  With Weights  1E+16
+edge from   78  To  89  With Weights  1E+16
+edge from   78  To  67  With Weights  1E+16
+edge from   78  To  77  With Weights  1E+16
+
+
+
+ The  index node79
+Edges
+edge from   79  To  80  With Weights  64046191091701.4
+edge from   79  To  90  With Weights  0.00392156862745098
+edge from   79  To  68  With Weights  0.00392156862745098
+edge from   79  To  78  With Weights  1E+16
+
+
+
+ The  index node80
+Edges
+edge from   80  To  81  With Weights  0.00392156862745098
+edge from   80  To  91  With Weights  1E+16
+edge from   80  To  69  With Weights  1E+16
+edge from   80  To  79  With Weights  64046191091701.4
+
+
+
+ The  index node81
+Edges
+edge from   81  To  82  With Weights  0.00392156862745098
+edge from   81  To  92  With Weights  1E+16
+edge from   81  To  70  With Weights  1E+16
+edge from   81  To  80  With Weights  0.00392156862745098
+
+
+
+ The  index node82
+Edges
+edge from   82  To  83  With Weights  0.00392156862745098
+edge from   82  To  93  With Weights  1E+16
+edge from   82  To  71  With Weights  1E+16
+edge from   82  To  81  With Weights  0.00392156862745098
+
+
+
+ The  index node83
+Edges
+edge from   83  To  84  With Weights  0.00392156862745098
+edge from   83  To  94  With Weights  1E+16
+edge from   83  To  72  With Weights  1E+16
+edge from   83  To  82  With Weights  0.00392156862745098
+
+
+
+ The  index node84
+Edges
+edge from   84  To  85  With Weights  0.00392156862745098
+edge from   84  To  95  With Weights  0.00392156862745098
+edge from   84  To  73  With Weights  0.00392156862745098
+edge from   84  To  83  With Weights  0.00392156862745098
+
+
+
+ The  index node85
+Edges
+edge from   85  To  86  With Weights  1E+16
+edge from   85  To  96  With Weights  1E+16
+edge from   85  To  74  With Weights  1E+16
+edge from   85  To  84  With Weights  0.00392156862745098
+
+
+
+ The  index node86
+Edges
+edge from   86  To  87  With Weights  1E+16
+edge from   86  To  97  With Weights  1E+16
+edge from   86  To  75  With Weights  1E+16
+edge from   86  To  85  With Weights  1E+16
+
+
+
+ The  index node87
+Edges
+edge from   87  To  98  With Weights  1E+16
+edge from   87  To  76  With Weights  1E+16
+edge from   87  To  86  With Weights  1E+16
+
+
+
+ The  index node88
+Edges
+edge from   88  To  89  With Weights  1E+16
+edge from   88  To  99  With Weights  1E+16
+edge from   88  To  77  With Weights  1E+16
+
+
+
+ The  index node89
+Edges
+edge from   89  To  90  With Weights  1E+16
+edge from   89  To  100  With Weights  1E+16
+edge from   89  To  78  With Weights  1E+16
+edge from   89  To  88  With Weights  1E+16
+
+
+
+ The  index node90
+Edges
+edge from   90  To  91  With Weights  1E+16
+edge from   90  To  101  With Weights  1E+16
+edge from   90  To  79  With Weights  0.00392156862745098
+edge from   90  To  89  With Weights  1E+16
+
+
+
+ The  index node91
+Edges
+edge from   91  To  92  With Weights  1E+16
+edge from   91  To  102  With Weights  1E+16
+edge from   91  To  80  With Weights  1E+16
+edge from   91  To  90  With Weights  1E+16
+
+
+
+ The  index node92
+Edges
+edge from   92  To  93  With Weights  1E+16
+edge from   92  To  103  With Weights  1E+16
+edge from   92  To  81  With Weights  1E+16
+edge from   92  To  91  With Weights  1E+16
+
+
+
+ The  index node93
+Edges
+edge from   93  To  94  With Weights  1E+16
+edge from   93  To  104  With Weights  1E+16
+edge from   93  To  82  With Weights  1E+16
+edge from   93  To  92  With Weights  1E+16
+
+
+
+ The  index node94
+Edges
+edge from   94  To  95  With Weights  1E+16
+edge from   94  To  105  With Weights  1E+16
+edge from   94  To  83  With Weights  1E+16
+edge from   94  To  93  With Weights  1E+16
+
+
+
+ The  index node95
+Edges
+edge from   95  To  96  With Weights  1E+16
+edge from   95  To  106  With Weights  1E+16
+edge from   95  To  84  With Weights  0.00392156862745098
+edge from   95  To  94  With Weights  1E+16
+
+
+
+ The  index node96
+Edges
+edge from   96  To  97  With Weights  1E+16
+edge from   96  To  107  With Weights  1E+16
+edge from   96  To  85  With Weights  1E+16
+edge from   96  To  95  With Weights  1E+16
+
+
+
+ The  index node97
+Edges
+edge from   97  To  98  With Weights  1E+16
+edge from   97  To  108  With Weights  1E+16
+edge from   97  To  86  With Weights  1E+16
+edge from   97  To  96  With Weights  1E+16
+
+
+
+ The  index node98
+Edges
+edge from   98  To  109  With Weights  1E+16
+edge from   98  To  87  With Weights  1E+16
+edge from   98  To  97  With Weights  1E+16
+
+
+
+ The  index node99
+Edges
+edge from   99  To  100  With Weights  1E+16
+edge from   99  To  110  With Weights  1E+16
+edge from   99  To  88  With Weights  1E+16
+
+
+
+ The  index node100
+Edges
+edge from   100  To  101  With Weights  1E+16
+edge from   100  To  111  With Weights  1E+16
+edge from   100  To  89  With Weights  1E+16
+edge from   100  To  99  With Weights  1E+16
+
+
+
+ The  index node101
+Edges
+edge from   101  To  102  With Weights  1E+16
+edge from   101  To  112  With Weights  1E+16
+edge from   101  To  90  With Weights  1E+16
+edge from   101  To  100  With Weights  1E+16
+
+
+
+ The  index node102
+Edges
+edge from   102  To  103  With Weights  1E+16
+edge from   102  To  113  With Weights  1E+16
+edge from   102  To  91  With Weights  1E+16
+edge from   102  To  101  With Weights  1E+16
+
+
+
+ The  index node103
+Edges
+edge from   103  To  104  With Weights  1E+16
+edge from   103  To  114  With Weights  1E+16
+edge from   103  To  92  With Weights  1E+16
+edge from   103  To  102  With Weights  1E+16
+
+
+
+ The  index node104
+Edges
+edge from   104  To  105  With Weights  1E+16
+edge from   104  To  115  With Weights  1E+16
+edge from   104  To  93  With Weights  1E+16
+edge from   104  To  103  With Weights  1E+16
+
+
+
+ The  index node105
+Edges
+edge from   105  To  106  With Weights  1E+16
+edge from   105  To  116  With Weights  1E+16
+edge from   105  To  94  With Weights  1E+16
+edge from   105  To  104  With Weights  1E+16
+
+
+
+ The  index node106
+Edges
+edge from   106  To  107  With Weights  1E+16
+edge from   106  To  117  With Weights  1E+16
+edge from   106  To  95  With Weights  1E+16
+edge from   106  To  105  With Weights  1E+16
+
+
+
+ The  index node107
+Edges
+edge from   107  To  108  With Weights  1E+16
+edge from   107  To  118  With Weights  1E+16
+edge from   107  To  96  With Weights  1E+16
+edge from   107  To  106  With Weights  1E+16
+
+
+
+ The  index node108
+Edges
+edge from   108  To  109  With Weights  1E+16
+edge from   108  To  119  With Weights  1E+16
+edge from   108  To  97  With Weights  1E+16
+edge from   108  To  107  With Weights  1E+16
+
+
+
+ The  index node109
+Edges
+edge from   109  To  120  With Weights  1E+16
+edge from   109  To  98  With Weights  1E+16
+edge from   109  To  108  With Weights  1E+16
+
+
+
+ The  index node110
+Edges
+edge from   110  To  111  With Weights  1E+16
+edge from   110  To  99  With Weights  1E+16
+
+
+
+ The  index node111
+Edges
+edge from   111  To  112  With Weights  1E+16
+edge from   111  To  100  With Weights  1E+16
+edge from   111  To  110  With Weights  1E+16
+
+
+
+ The  index node112
+Edges
+edge from   112  To  113  With Weights  1E+16
+edge from   112  To  101  With Weights  1E+16
+edge from   112  To  111  With Weights  1E+16
+
+
+
+ The  index node113
+Edges
+edge from   113  To  114  With Weights  1E+16
+edge from   113  To  102  With Weights  1E+16
+edge from   113  To  112  With Weights  1E+16
+
+
+
+ The  index node114
+Edges
+edge from   114  To  115  With Weights  1E+16
+edge from   114  To  103  With Weights  1E+16
+edge from   114  To  113  With Weights  1E+16
+
+
+
+ The  index node115
+Edges
+edge from   115  To  116  With Weights  1E+16
+edge from   115  To  104  With Weights  1E+16
+edge from   115  To  114  With Weights  1E+16
+
+
+
+ The  index node116
+Edges
+edge from   116  To  117  With Weights  1E+16
+edge from   116  To  105  With Weights  1E+16
+edge from   116  To  115  With Weights  1E+16
+
+
+
+ The  index node117
+Edges
+edge from   117  To  118  With Weights  1E+16
+edge from   117  To  106  With Weights  1E+16
+edge from   117  To  116  With Weights  1E+16
+
+
+
+ The  index node118
+Edges
+edge from   118  To  119  With Weights  1E+16
+edge from   118  To  107  With Weights  1E+16
+edge from   118  To  117  With Weights  1E+16
+
+
+
+ The  index node119
+Edges
+edge from   119  To  120  With Weights  1E+16
+edge from   119  To  108  With Weights  1E+16
+edge from   119  To  118  With Weights  1E+16
+
+
+
+ The  index node120
+Edges
+edge from   120  To  109  With Weights  1E+16
+edge from   120  To  119  With Weights  1E+16
+
+
